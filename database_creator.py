@@ -12,7 +12,7 @@ import tempfile
 import spacy
 from datetime import date, datetime
 import locale
-locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
+# locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
 from threadpoolctl import threadpool_limits
 import streamlit as stm
 
