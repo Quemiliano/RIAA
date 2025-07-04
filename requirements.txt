@@ -9,7 +9,7 @@ requests
 spacy
 threadpoolctl
 transformers
-sklearn
+scikit-learn
 nltk
 matplotlib
 wordcloud
